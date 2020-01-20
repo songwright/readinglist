@@ -2,7 +2,7 @@
   "name": "booklist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ramon-sanchez.com/react-app/",
+  "homepage": "https://ramon-sanchez.com/booklist",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
