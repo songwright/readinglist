@@ -6,3 +6,6 @@ https://github.com/songwright/netninja-react-context-hooks-tutorial
 
 The app is deployed on GitHub pages:
 https://songwright.github.io/readinglist/
+
+I used the instructions on this page for this deployment:
+https://github.com/gitname/react-gh-pages
