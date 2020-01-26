@@ -1,11 +1,5 @@
-# React Context Hooks Tutorial by The Net Ninja
+# Reading List
 
-Notes on The Net Ninja’s Context Hooks Tutorial on YouTube.
+This is a React app that creates a reading list. This is also my first attempt to deploy a React app on Github Pages. The code for the app is a copy of an app that was based on a React tutorial on YouTube. Here is the repository for the original app:
 
-Select a branch to to see the notes for each lesson.
-
-Repository files:
-
-https://github.com/iamshaunjp/react-context-hooks
-
-React Context Docs - https://reactjs.org/docs/context.html
+https://github.com/songwright/netninja-react-context-hooks-tutorial
